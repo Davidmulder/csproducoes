@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pacotes" value="name:id;datatype:int,name:titulo;datatype:string,name:local;datatype:string,name:foto;datatype:string,name:resumo;datatype:blob,name:texto;datatype:blob,name:valor;datatype:real,name:parcela1;datatype:string,name:parcela2;datatype:string,name:parcela3;datatype:string,name:data;datatype:datetime" />
+</info>

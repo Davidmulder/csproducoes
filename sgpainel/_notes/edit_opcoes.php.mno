@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_opcao" value="name:id;datatype:int,name:id_quest;datatype:int,name:opcao;datatype:string,name:n;datatype:int" />
+</info>

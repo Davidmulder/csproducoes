@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_area" value="name:id;datatype:int,name:titulo;datatype:string" />
+	<infoitem key="UD_menuarea" value="name:id;datatype:int,name:id_area;datatype:int,name:titulo;datatype:string,name:link;datatype:string" />
+</info>

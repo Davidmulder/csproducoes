@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editaluno" value="name:id;datatype:int,name:nome;datatype:string,name:email;datatype:string,name:senha;datatype:string,name:escola;datatype:string,name:data;datatype:datetime" />
+</info>

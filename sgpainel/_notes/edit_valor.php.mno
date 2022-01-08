@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_valor" value="name:id;datatype:int,name:valor;datatype:real,name:1x;datatype:real,name:12x;datatype:real,name:24x;datatype:real,name:36x;datatype:real,name:48x;datatype:real,name:60x;datatype:real,name:72x;datatype:real" />
+</info>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<area> 
+	<foto>
+		<cod>20</cod>
+		<titulo>CLAUDINHO SANTOS</titulo>
+		<imagem>http://www.csproducoes.hospedagemdesites.ws/sgpainel/fotos/9llfl1.jpg</imagem>
+		<audio>DEMO NOVO_CLAUDINHO SANTOS.mp3</audio>
+	</foto>
+	<foto>
+		<cod>13</cod>
+		<titulo>INFANTIL CS_01</titulo>
+		<imagem>http://www.csproducoes.hospedagemdesites.ws/sgpainel/fotos/y5l5i2.jpg</imagem>
+		<audio>INFANTIL CS_01 - SP.mp3</audio>
+	</foto>
+	<foto>
+		<cod>14</cod>
+		<titulo>LOCUTOR IMPACTO CS_01</titulo>
+		<imagem>http://www.csproducoes.hospedagemdesites.ws/sgpainel/fotos/3ug441.jpg</imagem>
+		<audio>LOCUTOR IMPACTO CS_01.mp3</audio>
+	</foto>
+	<foto>
+		<cod>12</cod>
+		<titulo>LOCUTORA CS_01</titulo>
+		<imagem>http://www.csproducoes.hospedagemdesites.ws/sgpainel/fotos/33ai71.jpg</imagem>
+		<audio>LOCUTORA_CS 01_RN.mp3</audio>
+	</foto>
+</area>

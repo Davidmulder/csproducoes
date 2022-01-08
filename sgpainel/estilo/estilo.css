@@ -1,0 +1,104 @@
+.texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: #006699;
+}
+.texto_formulario {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bolder;
+	color: #333333;
+}
+.form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	border: 1px solid #999999;
+}
+.form2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	border: 1px solid #CCCCCC;
+}
+.botao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: #5594B4;
+	border: 1px solid cccccc;
+}
+.menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+.borda_escura{
+	border: 1px solid #cccccc;
+}
+.borda {
+	border-top: 1px none #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #666666;
+}
+.texto_menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	text-transform: uppercase;
+}
+.texto_tabela{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	
+}
+.linha {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #333333;
+	font-weight: bolder;
+	text-align: center;
+}
+.bordatotal {
+	border: 1px solid #CCCCCC;
+}
+.pequeno {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+.texto_sis {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	color: #ffffff;
+	background-color: #006699;
+}
+.borda {
+	border: 1px solid #CCCCCC;
+}
+.linhadupla {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #C6030B;
+	border-bottom-color: #C6030B;
+}
+A:link {COLOR: #006699; TEXT-DECORATION: none}
+A:visited {COLOR: #006699; TEXT-DECORATION: none}
+A:hover {COLOR: #CE3000; TEXT-DECORATION: underline}
+A:active {COLOR: #006699; TEXT-DECORATION: none}

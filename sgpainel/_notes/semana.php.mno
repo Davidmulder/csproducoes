@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_semana" value="name:id;datatype:int,name:id_produto;datatype:int,name:semana;datatype:int" />
+</info>

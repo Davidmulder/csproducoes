@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_enquete" value="name:id;datatype:int,name:titulo;datatype:string,name:ativo;datatype:int,name:data;datatype:datetime" />
+</info>

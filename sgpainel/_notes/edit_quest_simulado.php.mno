@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_simulados" value="name:id;datatype:int,name:titulo;datatype:string,name:tipo;datatype:int,name:data;datatype:datetime" />
+	<infoitem key="UD_disciplina" value="name:id;datatype:int,name:nome;datatype:string" />
+	<infoitem key="UD_editquest" value="name:id;datatype:int,name:id_simu;datatype:int,name:disc;datatype:string,name:titulo;datatype:blob,name:foto;datatype:string,name:A;datatype:blob,name:B;datatype:blob,name:C;datatype:blob,name:D;datatype:blob,name:E;datatype:blob,name:certo;datatype:string,name:n;datatype:int" />
+</info>

@@ -1,0 +1,31 @@
+@chartset "utf-8";
+/* CSS Document */
+
+/* Html tags */
+html, body {
+   margin: 0;
+   padding: 0;
+ }
+body{ background: url(../images/fundo.jpg) no-repeat top center #E7E7E7; font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; }
+
+/*Menu*/
+a#menu:link, a#menu:visited{outline:none; text-decoration:none; color:#FFF; font-weight:bold; font-size:13px;}
+a#menu:hover, a#menu:active, a#menu:focus{ text-decoration:underline;}
+
+/*Fontes*/
+.login{ font-size:12px; color:#880606;}
+.Title{ font-size:24px; font-family:Geneva, Arial, Helvetica, sans-serif; color:#910000; font-weight:bold;}
+
+/*Outros*/
+#bgareacliente{ background:url(../images/areacliente.jpg) no-repeat center top;}
+.areatexto{ background-image:url(../images/form.gif); background-repeat:no-repeat; background-color:transparent; border:none; height:23px; width:141px;}
+a#areacliente:link, a#areacliente:visited{outline:none; text-decoration:none; color:#880606; font-size:10px; font-family:Arial, Helvetica, sans-serif;}
+a#areacliente:hover, a#areacliente:active, a#areacliente:focus{ text-decoration:underline;}
+#banner{ margin:12px 14px 0 18px; display:block; width:213px; height:112px;}
+.destaquelocutor{ font-size:12px;}
+a#destaquelocutor:link, a#destaquelocutor:visited{outline:none; text-decoration:none; color:#000; font-size:14px; font-family:Arial, Helvetica, sans-serif;}
+a#destaquelocutor:hover, a#destaquelocutor:active, a#destaquelocutor:focus{ text-decoration:underline;}
+#rodape{ background:url(../images/rodape.jpg) repeat-x;}
+a#rodapee:link, a#rodapee:visited{outline:none; text-decoration:none; color:#fff; font-size:14px; font-family:Arial, Helvetica, sans-serif;}
+a#rodapee:hover, a#rodapee:active, a#rodapee:focus{ text-decoration:underline;}
+#bglogo{ background:url(../images/bglogo.jpg) no-repeat top center;}

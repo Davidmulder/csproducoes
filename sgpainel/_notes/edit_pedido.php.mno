@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cliente" value="name:id;datatype:string,name:nome;datatype:string,name:login;datatype:string,name:senha;datatype:string,name:cpf;datatype:string,name:email;datatype:string,name:end;datatype:blob,name:cidade;datatype:string,name:bairro;datatype:string,name:tel;datatype:string,name:cel;datatype:string,name:uf;datatype:string,name:acesso;datatype:int,name:data;datatype:datetime" />
+	<infoitem key="UD_carrinho" value="name:id;datatype:int,name:carrinho;datatype:string,name:cod_prod;datatype:int,name:cod_cliente;datatype:int,name:produto;datatype:string,name:qtd;datatype:int,name:valor;datatype:real" />
+	<infoitem key="UD_pedido" value="name:id;datatype:string,name:cod_cliente;datatype:int,name:carrinho;datatype:int,name:total;datatype:real,name:fechar;datatype:int,name:data;datatype:date" />
+</info>
